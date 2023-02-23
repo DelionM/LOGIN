@@ -1,0 +1,9 @@
+c:\users\investor_dm_\documents\visual studio 2015\Projects\LOGIN\LOGIN\bin\Debug\LOGIN.exe.config
+c:\users\investor_dm_\documents\visual studio 2015\Projects\LOGIN\LOGIN\bin\Debug\LOGIN.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\LOGIN\LOGIN\bin\Debug\LOGIN.pdb
+c:\users\investor_dm_\documents\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.csprojResolveAssemblyReference.cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.Form1.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.Properties.Resources.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.Cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.pdb
